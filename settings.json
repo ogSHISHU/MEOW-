@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CVniggus.aternos.me",
+    "ip": "CVniggus.aternos.me:29778",
     "port": 29778,
     "version": "",
     "try-creative": false
